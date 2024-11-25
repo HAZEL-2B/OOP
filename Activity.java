@@ -1,7 +1,7 @@
 public class Activity {
     public static void
      main(String[] args) {
-      Dog myDog = new Dog("Chocolate", true);
+      Dog myDog = new Dog("Kitty", true);
       myDog.setNumberOfPuppies(3); 
  
       Dog puppy1 = new Dog("Kitty", true);
